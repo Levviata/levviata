@@ -1,4 +1,5 @@
 # Profile
+  <span style="color:#520099;">or make it blue</span>
 Hi, Im Levviata
 
 I have touched from C# to Java to Python but I'm not proficient in any of them.
@@ -30,7 +31,7 @@ Base title color: #547096
 
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ccffcc&icon_color=ccf9ff&text_color=cce0ff&bg_color=09101b,09191b,0c180c" alt="my Github Stats"/>
+<img align="center" src="breaklinkhttps://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ccffcc&icon_color=ccf9ff&text_color=cce0ff&bg_color=09101b,09191b,0c180c" alt="my Github Stats"/>
 
 ## Views
 <img src="https://widgetbite.com/stats/levviata" alt="watching_count" />
