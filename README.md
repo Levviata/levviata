@@ -1,5 +1,12 @@
 # Profile
-  <span style="color:#520099;">or make it blue</span>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 Hi, Im Levviata
 
 I have touched from C# to Java to Python but I'm not proficient in any of them.
