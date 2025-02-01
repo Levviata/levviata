@@ -1,6 +1,6 @@
 # $${\color{red}Profile}$$
 
-Hi, Im Levviata
+Hi, I'm Levviata, I'm mostly a game modder, but I've been deviating from modding existing pieces into making my own pieces.
 
 I have touched from C# to Java to Python but I'm not proficient in any of them.
 
@@ -24,8 +24,8 @@ Texture/Sprite wise:
 
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffcccc&icon_color=ccccff&text_color=ccffcc&bg_color=240000,000024,002400" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=161d27" alt="my Github Stats"/>
 
-## $${\color{green}Profile}$$
+## $${\color{green}Views}$$
 <img src="https://widgetbite.com/stats/levviata" alt="watching_count" />
  
