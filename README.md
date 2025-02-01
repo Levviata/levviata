@@ -1,11 +1,5 @@
-# Profile
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+# $${\color{red}Profile}$$
+
 
 Hi, Im Levviata
 
@@ -25,7 +19,7 @@ Texture/Sprite wise:
 - Terraria/tMod resource packs
   - (todo: add list)
 
-## Stats
+## $${\color{blue}Stats}$$
 
 <!-- 
 Base background color: #00193d
@@ -40,6 +34,6 @@ Base title color: #547096
 
 <img align="center" src="breaklinkhttps://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ccffcc&icon_color=ccf9ff&text_color=cce0ff&bg_color=09101b,09191b,0c180c" alt="my Github Stats"/>
 
-## Views
+## $${\color{green}Profile}$$
 <img src="https://widgetbite.com/stats/levviata" alt="watching_count" />
  
