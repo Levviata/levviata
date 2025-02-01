@@ -1,6 +1,5 @@
 # $${\color{red}Profile}$$
 
-
 Hi, Im Levviata
 
 I have touched from C# to Java to Python but I'm not proficient in any of them.
@@ -22,17 +21,10 @@ Texture/Sprite wise:
 ## $${\color{blue}Stats}$$
 
 <!-- 
-Base background color: #00193d
-
-Background color gradient: #161d27, #273345, #374962
-
-Base text color: #bacce8
-
-Base title color: #547096
 
 -->
 
-<img align="center" src="breaklinkhttps://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ccffcc&icon_color=ccf9ff&text_color=cce0ff&bg_color=09101b,09191b,0c180c" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=levviata&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=ffcccc&icon_color=ccccff&text_color=ccffcc&bg_color=240000,000024,002400" alt="my Github Stats"/>
 
 ## $${\color{green}Profile}$$
 <img src="https://widgetbite.com/stats/levviata" alt="watching_count" />
