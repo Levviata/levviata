@@ -1,4 +1,4 @@
-# $${\color{red}Profile}$$
+# Profile
 
 Hi, I'm Levviata, I'm mostly a game modder, but I've been deviating from modding existing pieces into making my own pieces.
 
@@ -18,7 +18,7 @@ Texture/Sprite wise:
 - Terraria/tMod resource packs
   - (todo: add list)
 
-## $${\color{blue}Metrics}$$
+## Metrics
 
 <!-- 
 
@@ -31,6 +31,6 @@ Texture/Sprite wise:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levviata&hide_progress=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=00000000" />
 </a>
 
-## $${\color{green}Views}$$
+## Views
 <img src="https://widgetbite.com/stats/levviata" alt="watching_count" />
  
