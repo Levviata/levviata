@@ -1,22 +1,9 @@
 # Profile
 
-Hi, I'm Levviata, I'm mostly a game modder, but I've been deviating from modding existing pieces into making my own pieces.
+I'm Levviata, game modder and spriter. I do minecraft mods
 
-I have touched from C# to Java to Python but I'm not proficient in any of them.
-
-I have also sprited quite a bit but I'm not an expert either.
-
-Progamming wise, I'm known for my:
 - Minecraft Java mods
-  - (todo: add list)
-- Terraria tMod mods
-  - (todo: add list)  
-
-Texture/Sprite wise:
-- Minecraft Java resource packs
-  - (todo: add list)
-- Terraria/tMod resource packs
-  - (todo: add list)
+  - https://modrinth.com/user/Levviata
 
 ## Metrics
 
