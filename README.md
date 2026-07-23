@@ -8,6 +8,9 @@ I'm Levviata, game maker, modder and spriter. I mainly do minecraft mods but I h
 - Terraria (Author name as YeahFrick)
   - [DawnMod:Dormant Reinterpretation and revision](https://github.com/Levviata/DDmodEnglishTranslation)
   - [A cool death sequence, Enter The Gungeon themed](https://github.com/Levviata/Levviatas-Hardcore-Mode)
+ 
+- Itch.io
+  - https://levviata.itch.io/axis-x-and-y
 
  
 - Free stuff (that you probably don't deserve)
