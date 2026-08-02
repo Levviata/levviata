@@ -15,4 +15,8 @@ I'm Levviata, game maker, modder and spriter. I mainly do minecraft mods but I h
  
 - Free stuff (that you probably don't deserve)
   - [Copyright-free Modrinth Download Button](https://github.com/Levviata/levviatasMinecraftDownloadButton)
-  
+
+#
+<a href="https://hbmmods.github.io">
+  <img src="https://hbmmods.github.io/img/badge.png" alt="HBM Mods">
+</a>
