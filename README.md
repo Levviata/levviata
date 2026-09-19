@@ -1,8 +1,8 @@
 # 𓂀 ∞ ⛧
 
-I'm Levviata, modder and spriter. I mainly do minecraft mods but I have done Terraria mods and a game. Sometimes I'm nice and I make things for everyone.
+I'm Levviata, modder and spriter. I mainly do minecraft mods but I have done Terraria mods and a jam game. Sometimes I'm nice and I make things for everyone.
 
-- Minecraft Java Mods and Modpacks
+- Minecraft Java Mods and Modpacks (usually 1.12.2)
   - https://github.com/Levviata/Levviatas-Nuclear-Tech-Modpack
   - https://modrinth.com/user/Levviata
 
